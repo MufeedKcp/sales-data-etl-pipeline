@@ -1,0 +1,29 @@
+
+---------------------------
+ETL Transformation Summary
+---------------------------
+- Files successfully processed         :     3
+- Total rows extracted from source     :   360
+- Rows passing validation              :     5
+- Rows rejected during validation      :   355
+- Validation rejection rate            : 98.61 %
+----------------------------
+
+-------------------------------
+Data Quality Validation Summary
+-------------------------------
+Missing order identifier                :          0
+Invalid order date format               :          8
+Invalid or non-positive quantity        :        277
+Invalid or non-positive price           :         70
+Missing region value                    :          0
+------------------------------
+
+---------------------------
+Revenue Validation Summary
+---------------------------
+Total revenue                  : 15158.81
+Average revenue per order      : 3031.76
+Maximum single-order revenue   : 7145.78
+Minimum single-order revenue   : 354.99
+---------------------------

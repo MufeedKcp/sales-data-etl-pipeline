@@ -1,0 +1,121 @@
+order_id,product,quantity,price,order_date,region
+1040,Thingamajig,4,N/A,29/01/2024,North
+1043,widget-a,18,297.29,2024-01-04,south
+1032,Gadget X,20,0,23/02/2024,Central
+1017,widget-a,,-10.99,05/02/2024,EAST
+1006,Widget A,-5,-10.99,03-18-2024,
+1029,Widget_B,18,free,11-Jan-2024,
+1039,Widget_B,,353.76,25/03/2024,North
+1054,widget-a,8,free,03-22-2024,EAST
+1022,Gadget-X,,352.4,18/03/2024,
+1015,Widget A,-5,0,01-29-2024,south
+1052,Thingamajig,,203.58,28-Jan-2024,EAST
+1013,widget-a,-5,free,01-19-2024,south
+1047,Widget_B,,free,2024/03/15,south
+1008,Thingamajig,-5,50.0,15/01/2024,south
+1050,Widget_B,14,0,29-Feb-2024,Central
+1055,Widget A,1,0,02-04-2024,EAST
+1027,Gadget-X,-5,-10.99,05/03/2024,North
+1055,Widget A,,N/A,10-Mar-2024,Central
+1020,Widget A,16,-10.99,09/02/2024,south
+1056,widget-a,19,free,09-Jan-2024,south
+1042,Gadget-X,,0,24/02/2024,
+1044,Gadget X,,-10.99,26-Feb-2024,North
+1015,Gadget-X,8,0,11/03/2024,south
+1000,Gadget-X,3,118.33,2024-02-12,south
+1017,widget-a,,0,2024/03/14,West 
+1051,Gadget X,,free,2024/02/15,West 
+1055,widget-a,2,-10.99,14/01/2024,south
+1034,Widget A,,-10.99,29/02/2024,West 
+1051,widget-a,18,0,2024-01-02,south
+1026,Gadget X,-5,free,08/01/2024,North
+1024,widget-a,-5,0,2024/03/25,south
+1018,Widget A,7,0,01-08-2024,North
+1037,Widget A,,0,11/01/2024,Central
+1004,Gadget-X,-5,0,01-Feb-2024,North
+1039,Widget_B,-5,0,03-07-2024,south
+1042,Gadget X,,N/A,03-26-2024,EAST
+1059,Gadget-X,3,0,2024-01-13,south
+1032,Widget_B,,466.96,02-01-2024,south
+1028,Widget_B,,0,02-Jan-2024,
+1006,Widget_B,,62.14,11/03/2024,EAST
+1038,Widget_B,,-10.99,2024/03/05,North
+1005,widget-a,,-10.99,01-17-2024,
+1028,Gadget-X,-5,282.65,10/01/2024,North
+1053,Widget A,,217.74,02-09-2024,EAST
+1013,Thingamajig,8,0,22-Feb-2024,south
+1059,widget-a,,N/A,2024-02-22,
+1059,Thingamajig,-5,N/A,04/02/2024,North
+1024,widget-a,-5,free,02-14-2024,south
+1001,Thingamajig,-5,167.49,02-05-2024,Central
+1025,Gadget-X,,469.92,03/02/2024,EAST
+1002,Gadget-X,-5,-10.99,25-Feb-2024,North
+1024,Gadget-X,,free,01-Jan-2024,
+1046,Thingamajig,,-10.99,03-20-2024,North
+1046,Gadget-X,,-10.99,02-21-2024,south
+1012,Widget_B,-5,N/A,19-Mar-2024,West 
+1035,Thingamajig,,free,15-Mar-2024,EAST
+1029,Thingamajig,-5,0,01/03/2024,North
+1018,widget-a,,N/A,03-27-2024,south
+1009,Gadget X,1,free,2024-03-19,West 
+1056,widget-a,,free,2024/03/04,south
+1041,Gadget X,1,N/A,23-Jan-2024,North
+1035,Gadget-X,8,free,26-Mar-2024,Central
+1020,Thingamajig,-5,0,27/02/2024,West 
+1028,Thingamajig,,-10.99,2024/03/07,south
+1017,Widget_B,15,N/A,02-04-2024,Central
+1005,Widget A,,N/A,31/03/2024,West 
+1026,Gadget-X,-5,N/A,2024/02/23,
+1001,Gadget X,-5,-10.99,2024/02/08,Central
+1047,Widget A,,-10.99,2024/02/25,West 
+1021,Widget A,,N/A,20-Mar-2024,West 
+1037,widget-a,19,free,2024/01/18,North
+1016,Widget_B,,-10.99,2024/02/13,West 
+1016,widget-a,-5,0,01-07-2024,
+1004,widget-a,2,N/A,03-Jan-2024,south
+1008,Widget_B,16,N/A,02-29-2024,south
+1038,Gadget-X,20,N/A,2024-02-09,North
+1059,Thingamajig,-5,N/A,10-Jan-2024,
+1015,Widget A,,0,16-Jan-2024,EAST
+1034,Gadget X,,-10.99,2024/01/02,North
+1027,Thingamajig,-5,free,23-Jan-2024,EAST
+1039,widget-a,-5,0,02-04-2024,North
+1017,Widget_B,,0,2024/03/19,North
+1031,Widget_B,,-10.99,02-03-2024,Central
+1044,Thingamajig,9,N/A,11/01/2024,West 
+1031,Widget A,,free,2024-02-27,EAST
+1014,Gadget-X,,0,2024/02/17,Central
+1022,Widget_B,,free,02-04-2024,south
+1007,widget-a,,0,29/03/2024,south
+1047,Widget A,,0,03-17-2024,south
+1018,widget-a,,93.82,31-Mar-2024,EAST
+1002,Widget A,,N/A,2024/03/22,North
+1036,Widget_B,-5,-10.99,2024-01-24,West 
+1007,widget-a,-5,0,2024-03-21,south
+1051,Gadget X,,N/A,16-Jan-2024,Central
+1038,Widget_B,,free,2024/02/27,Central
+1027,Widget_B,10,306.77,27/01/2024,
+1005,Gadget X,,91.04,2024-01-21,West 
+1044,Thingamajig,-5,N/A,02-06-2024,West 
+1004,Gadget X,,0,25/03/2024,North
+1034,widget-a,,N/A,2024-01-10,EAST
+1038,Thingamajig,,free,03-29-2024,West 
+1060,Thingamajig,-5,0,2024/01/06,EAST
+1038,Thingamajig,9,0,2024-03-16,EAST
+1036,Gadget-X,,free,05/02/2024,West 
+1040,Thingamajig,16,free,02-12-2024,North
+1054,Gadget-X,,free,2024/02/06,North
+1029,Widget A,,129.94,21-Feb-2024,
+1055,Gadget-X,-5,N/A,03-07-2024,West 
+1040,Gadget X,15,0,01-17-2024,
+1031,Widget_B,4,0,31/01/2024,Central
+1000,Thingamajig,-5,51.14,2024-02-29,south
+1031,Gadget X,,free,01/03/2024,Central
+1009,Widget_B,,0,2024-01-18,West 
+1021,Gadget-X,,-10.99,08-Feb-2024,
+1031,Gadget-X,-5,-10.99,12-Feb-2024,West 
+1029,widget-a,,N/A,2024/03/14,West 
+1002,Gadget X,-5,free,19/02/2024,North
+1008,Gadget X,,free,13-Jan-2024,North
+1046,Widget_B,-5,N/A,2024/01/10,EAST
+1039,Thingamajig,13,0,02-18-2024,

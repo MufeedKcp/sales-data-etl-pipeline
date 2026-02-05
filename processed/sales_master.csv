@@ -1,0 +1,6 @@
+order_id,product,quantity,price,revenue,order_date,region
+1043,widget-a,18,297.29,5351.22,2024-01-04,south
+1000,Gadget-X,3,118.33,354.99,2024-02-12,south
+1144,Widget_B,3,467.62,1402.86,2024-03-01,West 
+1104,Gadget X,4,225.99,903.96,2024-02-01,West 
+1103,Widget A,17,420.34,7145.78,2024-03-26,West 
